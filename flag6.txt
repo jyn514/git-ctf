@@ -1,0 +1,2 @@
+Flag 6 is the SHA hash associated with the 11th pull request ever made for the Linux kernel (refs/pull/11/head).
+Note that the Linux repository is several gigabytes in size. Perhaps you don't need to download it?
