@@ -1,0 +1,1 @@
+Flag 8 is the output of verifying 907516297cc80da051239b20ebad6f731b36e4bb (commit #6) piped to `sha224sum`.
