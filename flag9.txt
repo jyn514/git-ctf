@@ -1,0 +1,5 @@
+Flag 9 is the SHA224 hash of the __parents__ of the commit where this file was created.
+The commit itself is not included.
+
+Each parent is separated by a newline and the input ends with a newline.
+There are seven parents total.
