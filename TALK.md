@@ -40,6 +40,7 @@ Everyday uses for git. Should make you comfortable with branches and history.
 - [blame](https://git-scm.com/docs/git-blame)
 - [diff](https://git-scm.com/docs/git-diff)
 - [log](https://git-scm.com/docs/git-log)
+- [show](https://git-scm.com/docs/git-show)
 
 ### Third-Party Tools
 - [GUIs](https://git-scm.com/downloads/guis)
