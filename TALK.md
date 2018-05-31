@@ -6,7 +6,7 @@
 - The `git` binary ([download](https://git-scm.com/download) or your favorite package manager)
 
 ### Recommended
-- Experience with UNIX commands (`grep`, `ssh`, `sha256sum`, `curl`/`wget`)
+- Experience with UNIX commands (`grep`, `patch`, `diff`, `shasum`)
 - Familiarity with at least one terminal-based editor (`nano`, `vi`, `emacs`)
 - Familiarity with config files
 
@@ -96,7 +96,8 @@ In depth concepts and uses for git. For power users.
 
 ### Flags
 - `--interactive`
-- `--patch`
+- `--patch`: see [`git-apply`](https://git-scm.com/docs/git-reflog)
+   and the original [`patch`](https://linux.die.net/man/1/patch)
 - `--cached`
 
 ## Part Four: Plumbing and Pedantry
