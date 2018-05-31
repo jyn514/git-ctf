@@ -93,6 +93,12 @@ In depth concepts and uses for git. For power users.
 - [config](https://git-scm.com/docs/git-config)
 - [reflog](https://git-scm.com/docs/git-reflog)
 
+
+### Flags
+- `--interactive`
+- `--patch`
+- `--cached`
+
 ## Part Four: Plumbing and Pedantry
 The lowest level of git. The commands are used internally by the porcelain.
 
