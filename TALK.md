@@ -77,7 +77,7 @@ In depth concepts and uses for git. For power users.
 	- `<rev>`~`<number>`, the `<number>` *previous* commit following first parents  
 	where `<number>` :: {1, 2, 3 ...}
 - [triangular workflows](https://cloud.githubusercontent.com/assets/1319791/8943755/5dcdcae4-354a-11e5-9f82-915914fad4f7.png)
-  ([short explanation](https://blog.github.com/2015-07-29-git-2-5-including-multiple-worktrees-and-triangular-workflows/)
+  ([short explanation](https://blog.github.com/2015-07-29-git-2-5-including-multiple-worktrees-and-triangular-workflows/))
 - [rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
 - [fast-forwarding](https://stackoverflow.com/questions/9069061)
 - [resetting](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified)
