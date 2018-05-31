@@ -22,6 +22,7 @@ Just enough info to make this talk interactive.
 - [add](https://git-scm.com/docs/git-add)
 - [commit](https://git-scm.com/docs/git-commit)
 - [push/pull](https://git-scm.com/docs/git-push)
+- [status](https://git-scm.com/docs/git-status)
 
 ## Part Two: Uses
 Everyday uses for git. Should make you comfortable with branches and history.
@@ -37,6 +38,8 @@ Everyday uses for git. Should make you comfortable with branches and history.
 - [remote](https://git-scm.com/docs/git-remote)
 - [tag](https://git-scm.com/docs/git-tag)
 - [blame](https://git-scm.com/docs/git-blame)
+- [diff](https://git-scm.com/docs/git-diff)
+- [log](https://git-scm.com/docs/git-log)
 
 ### Third-Party Tools
 - [GUIs](https://git-scm.com/downloads/guis)
@@ -88,6 +91,7 @@ In depth concepts and uses for git. For power users.
 - [revert](https://git-scm.com/docs/git-revert)
 - [reset](https://git-scm.com/docs/git-reset)
 - [config](https://git-scm.com/docs/git-config)
+- [reflog](https://git-scm.com/docs/git-reflog)
 
 ## Part Four: Plumbing and Pedantry
 The lowest level of git. The commands are used internally by the porcelain.
