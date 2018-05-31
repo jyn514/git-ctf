@@ -1,5 +1,5 @@
 # Flags
-There are 22 flags in this repo.
+There are 9 flags in this repo.
 Use your knowledge of git to find them.
 
 ## Resources
