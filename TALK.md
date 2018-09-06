@@ -1,5 +1,12 @@
 # git: the stupid version control system
 
+## requests
+- branches
+- merges
+- branch merges
+- merge conflicts
+- cthulhu merges
+
 ## Prior Knowledge
 ### Required
 - CLI experience (`cd`, `ls`, `mv`, `rm`)
@@ -32,15 +39,13 @@ Everyday uses for git. Should make you comfortable with branches and history.
 - [merges](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
 ### Commands
+- [branch](https://git-scm.com/docs/git-branch)
 - [checkout](https://git-scm.com/docs/git-checkout)
 - [merge](https://git-scm.com/docs/git-merge)
-- [branch](https://git-scm.com/docs/git-branch)
-- [remote](https://git-scm.com/docs/git-remote)
 - [tag](https://git-scm.com/docs/git-tag)
-- [blame](https://git-scm.com/docs/git-blame)
+- [show](https://git-scm.com/docs/git-show)
 - [diff](https://git-scm.com/docs/git-diff)
 - [log](https://git-scm.com/docs/git-log)
-- [show](https://git-scm.com/docs/git-show)
 
 ### Third-Party Tools
 - [GUIs](https://git-scm.com/downloads/guis)
@@ -86,6 +91,7 @@ In depth concepts and uses for git. For power users.
   ([see also](https://www.destroyallsoftware.com/blog/2017/the-biggest-and-weirdest-commits-in-linux-kernel-git-history))
 
 ### Commands
+- [remote](https://git-scm.com/docs/git-remote)
 - [bisect](https://git-scm.com/docs/git-bisect)
 - [rebase](https://git-scm.com/docs/git-rebase)
 - [stash](https://git-scm.com/docs/git-stash)
