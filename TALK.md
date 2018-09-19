@@ -5,7 +5,7 @@
 - merges
 - branch merges
 - merge conflicts
-- cthulhu merges
+- [cthulhu merges](https://marc.info/?l=linux-kernel&m=139033182525831)
 
 ## Prior Knowledge
 ### Required
